@@ -16,8 +16,8 @@ yesBtn.addEventListener('click', function(){
     noBtn.style.setProperty('visibility','hidden');
 
     
-    var yes = "si";
-    guardar_valores(yes);
+   /* var yes = "si";
+    guardar_valores(yes);*/
 
 })
 
@@ -51,7 +51,7 @@ acceptBtn.addEventListener('click', function(){
     back.style.setProperty('background-image', 'none');
     
 })
-
+/*
 function guardar_valores (object) {
   
     localStorage.setItem("acepta", object);
@@ -62,4 +62,4 @@ function recuperar_datos () {
     alert(peticion);
   }
 
- 
+ */
