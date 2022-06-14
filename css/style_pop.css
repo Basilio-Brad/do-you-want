@@ -2,6 +2,7 @@
     visibility: hidden;
     display: none;
     position: absolute;
+  
 }
 
 .card_pop {
@@ -35,6 +36,7 @@
     margin-left: -90px;
     margin-top: 5px;
     width: auto;
+    background: #F3EEDA;
 }
 #acceptBtn:hover {
     border-color: #ff2d75;

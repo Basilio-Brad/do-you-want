@@ -129,6 +129,9 @@ body{
     width: 100vw;
     height: 100vh;
     overflow: hidden;
+    background-image: none;
+    background-size: 460px;
+    
 }
 .wrap{
     position: relative;
