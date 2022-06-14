@@ -11,7 +11,7 @@ yesBtn.addEventListener('click', function(){
 
     heart.style.setProperty('visibility','hidden');
 
-    back.style.setProperty('background-image', 'url(img/back.jpg)');
+    back.style.setProperty('background-image', 'url(img/fondo.png)');
 
     noBtn.style.setProperty('visibility','hidden');
 
